@@ -16,10 +16,10 @@ st.set_page_config(layout="wide")
 
 # Titre
 #------------------------------------#
-urlImage='https://jtellier.fr/logo.png'
-image = Image.open(urlImage)
+# urlImage='https://jtellier.fr/logo.png'
+# image = Image.open(urlImage)
 
-st.image(image, width = 600)
+# st.image(image, width = 600)
 
 st.title('Transactions immobilières en France')
 st.markdown("""
