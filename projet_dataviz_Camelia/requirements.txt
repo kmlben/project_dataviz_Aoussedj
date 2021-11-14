@@ -6,3 +6,5 @@ datetime
 numpy
 Seaborn
 streamlit_metrics
+PIL
+matplotlib.pyplot
