@@ -16,7 +16,7 @@ st.set_page_config(layout="wide")
 
 # Titre
 #------------------------------------#
-image = Image.open('logo_efrei_finances_publiques.png')
+image = Image.open('logo.png')
 
 st.image(image, width = 600)
 
