@@ -1,0 +1,3 @@
+Si un utilisateur souhaite upload un fichier d'une taille supérieur à 200MB, il suffit d'exécuter le main de l'application streamlit à l'aide de cette commande :
+
+streamlit run projet_dataviz_Aoussedj.py --server.maxUploadSize=1028
