@@ -1,7 +1,7 @@
 # This app is for educational purpose only. Insights gained are not financial advice. Use at your own risk!
 from altair.vegalite.v4.schema.channels import Latitude
 import streamlit as st
-from streamlit_metrics import metric, metric_row
+from streamlit_metrics import metric_row
 from PIL import Image
 import pandas as pd
 import datetime as dt
