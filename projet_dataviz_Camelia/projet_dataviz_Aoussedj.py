@@ -16,7 +16,8 @@ st.set_page_config(layout="wide")
 
 # Titre
 #------------------------------------#
-image = Image.open('https://jtellier.fr/logo.png')
+urlImage='https://jtellier.fr/logo.png'
+image = Image.open(urlImage)
 
 st.image(image, width = 600)
 
