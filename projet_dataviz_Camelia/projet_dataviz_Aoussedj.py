@@ -8,8 +8,6 @@ import datetime as dt
 import matplotlib.pyplot as plt
 import seaborn as sns
 import time
-import streamlit.components.v1 as components
-
 
 #------------------------------------#
 # Titre de la page et disposition des modules sur la page
