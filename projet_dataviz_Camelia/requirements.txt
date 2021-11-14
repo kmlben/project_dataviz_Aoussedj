@@ -4,7 +4,5 @@ Streamlit
 Seaborn
 datetime
 numpy
-Seaborn
 streamlit_metrics
-PIL
-matplotlib.pyplot
+Seaborn
